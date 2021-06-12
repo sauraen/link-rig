@@ -1,3 +1,5 @@
+![Animation demo GIF](snoop.gif)
+
 Link IK rig for custom animation import to OoT \
 Original rig by rankaisija \
 Modifications by Sauraen
